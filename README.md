@@ -11,7 +11,8 @@ This project implements a simple snake game using the raylib library in C.
 2. **Compile and Run**: Compile the game using the following commands in your terminal:
 
     ```bash
-    make && make run && make clean
+    make && make run 
+    make clean
     ```
 
 ## Controls
