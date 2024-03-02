@@ -71,9 +71,8 @@ int main(void)
     {
         UpdateDrawFrame();
     }
-
-    CloseWindow();
     UnloadGame();
+    CloseWindow();
     return 0;
 }
 
